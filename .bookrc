@@ -1,0 +1,22 @@
+{
+  "name": "Journey to the West",
+  "type": "novel",
+  "has_page_numbers": true,
+  "mode": {
+    "HTML": "html",
+    "CSS": "css",
+    "JS": "js",
+    "HEAD": "html"
+  },
+  "cover": {
+    "punchline": "西遊記",
+    "toc": "",
+    "author_detail": "",
+    "colophon": "",
+    "synopsis": ""
+  },
+  "status": "published",
+  "asset_url": "https://raw.githubusercontent.com/marvindanig/journey-to-the-west/master/assets",
+  "book_id": 1054,
+  "book_url": "https://bubblin.io/book/journey-to-the-west-by-cheng-en-wu"
+}
